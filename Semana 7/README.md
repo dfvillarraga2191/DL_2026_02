@@ -2,7 +2,7 @@
 
 La carpeta `data/` no está incluida directamente debido al tamaño de los archivos.
 
-Los datos del curso deben descargarse desde la siguiente carpeta de Dropbox:
+Los datos de esta semana descargarse desde la siguiente carpeta de Dropbox:
 
 [Descargar carpeta `data/` desde Dropbox](https://www.dropbox.com/scl/fo/6qjkolx7ihz9kmeshno9m/APpSTnDkBALwxDlEGaHQu1o?rlkey=3oiknxyyvm2rhes6rhxhdddke&st=xdo5yby5&dl=0)
 
