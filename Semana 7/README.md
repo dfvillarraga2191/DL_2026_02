@@ -27,12 +27,4 @@ data
 
 y que se encuentre en la raíz del repositorio.
 
-## Actualizar el repositorio
 
-Para descargar cambios realizados posteriormente en el repositorio:
-
-```bash
-git pull
-```
-
-Antes de ejecutar este comando, asegúrese de estar ubicado dentro de la carpeta `DL_2026_02`.
