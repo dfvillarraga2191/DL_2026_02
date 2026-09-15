@@ -25,6 +25,4 @@ Es importante que la carpeta se llame exactamente:
 data
 ```
 
-y que se encuentre en la raíz del repositorio.
-
 
