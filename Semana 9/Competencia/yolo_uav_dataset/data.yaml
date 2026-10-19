@@ -1,0 +1,8 @@
+path: /home/daniel/Dropbox/2026-02/Deep Learning/Semana 9/Competencia/yolo_uav_dataset
+train: images/train
+val: images/val
+nc: 3
+names:
+  0: '0'
+  1: '1'
+  2: '2'
