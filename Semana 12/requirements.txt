@@ -1,0 +1,11 @@
+pathlib
+pandas
+matplotlib
+statsmodels
+torch
+torchmetrics
+datasets==4.8.5
+torchtext
+nltk
+pyspellchecker
+
